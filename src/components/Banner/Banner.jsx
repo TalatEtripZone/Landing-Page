@@ -57,6 +57,7 @@ export default function NewBanner() {
             sx={{
               fontSize: { xl: "3em", lg: "3em" },
               fontWeight: "700",
+              mt: { sm: 8, xs: 6 },
               color: "white",
               px: { xl: 0, lg: 2, md: 2, sm: 2, xs: 2 },
             }}
