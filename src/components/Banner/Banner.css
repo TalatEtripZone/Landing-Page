@@ -1,0 +1,15 @@
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked{
+    color: white!important;
+}
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root{
+    color:white !important;
+}
+.card-icon{
+    margin-left: 15px;
+}
+.cardsItem{
+    display: grid;
+    grid-template-columns:  repeat(6,1fr);
+    gap:20px;
+    margin-left: 40px;
+}
