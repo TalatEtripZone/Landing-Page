@@ -10,11 +10,9 @@ import Footer from "../Footer/Footer";
 export default function Home() {
   return (
     <Box>
-      <Navbar />
       <Banner />
       <FlightCard />
       <SearchTopCities />
-      <Footer />
     </Box>
   );
 }
